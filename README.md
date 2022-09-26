@@ -2,7 +2,7 @@
 Hanya untuk Referensi untuk Dicoding Submission Belajar Fundamental Front-End Web Development
 ## Screenshoot
 ### Result
-![main](screenshoots/result.jpg)
+![main](screenshots/result.jpg)
 ### Submission Info
 ![main](screenshots/rating.JPG)
 ![main](screenshots/info.JPG)
