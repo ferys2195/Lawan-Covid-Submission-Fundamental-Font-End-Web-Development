@@ -1,0 +1,17 @@
+@import "~bootstrap";
+@import url("https://fonts.googleapis.com/css2?family=Urbanist&display=swap");
+$bg-overlay: #0f3460;
+$color-accent : #FFC54D;
+body {
+  background-color: $bg-overlay;
+  font-family: "Urbanist", sans-serif;
+}
+.bg-main {
+  background-color: $bg-overlay;
+}
+.color-accent {
+  color : $color-accent;
+}
+#hero {
+  height: 100vh;
+}
